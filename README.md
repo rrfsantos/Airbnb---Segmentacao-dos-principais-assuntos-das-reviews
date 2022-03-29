@@ -47,7 +47,7 @@ Neste estudo, a foi utilizada a técnica não supervisionada de modelagem de tó
 
 O modelo gerou 3 tópicos:
 
-Tópico 1 - Impressões gerais sobre a acomodação, como localização, limpeza, conforto, espaço.
+Tópico 1 - Impressões gerais sobre a acomodação, como localização, limpeza, conforto, espaço.<\n>
 Tópico 2 - Impressões gerais sobre a estadia, como hospitalidade e ajuda do anfitrião.
 Tópico 3 - Instalações da acomodação, como quarto, sala, banheiro, cama, etc.
 
@@ -63,4 +63,4 @@ Melhorias e testes podem ser feitos nesse modelo, tais como:
 Próximos passos seriam:
 
 * Rotular o dataset utilizando os tópicos para entrada em um modelo de classificação (supervisionado).
-* Utilizar similaridade para a classificação de novas reviews.
+* Utilizar similaridade para a identificação dos tópicos de novas reviews.
