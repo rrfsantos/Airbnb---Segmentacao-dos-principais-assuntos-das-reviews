@@ -47,7 +47,7 @@ Neste estudo, a foi utilizada a técnica não supervisionada de modelagem de tó
 
 * Utilização de GridSearchCV para encontrar melhor modelo LDA
 
-* Utilização do o modelo LDA com maior probabilidade logarítmica e menor perplexidade
+* Utilização do modelo LDA com maior probabilidade logarítmica e menor perplexidade
 
 * Visualização dos tópicos (assuntos) via pyLDAvis
 
