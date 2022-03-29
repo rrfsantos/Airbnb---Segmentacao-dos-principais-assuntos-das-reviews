@@ -19,7 +19,7 @@ O dataset é composto por reviews do site Airbnb, para apartamentos localizados 
 
 > Inside Airbnb: http://insideairbnb.com/get-the-data.html
 
-## 3. Modelagem
+### 3. Modelagem
 
 Neste estudo, a foi utilizada a técnica não supervisionada de modelagem de tópicos Latent Dirichlet Allocation (LDA), para a segmentação dos principais assuntos das reviews.
 
