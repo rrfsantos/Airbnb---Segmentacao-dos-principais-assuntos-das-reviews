@@ -57,7 +57,7 @@ O modelo precisa ser melhorado ou substituído por outra abordagem, pois analisa
 
 Melhorias e testes podem ser feitos nesse modelo, tais como:
 
-1. Utilização de todo o dataset, para verificar se com o aumento da massa de dados
+1. Utilização de todo o dataset
 2. Utilização de ngrams
 3. Utilização de TF-IDF
 4. Utilização da biblioteca Gensim para o modelo LDA
